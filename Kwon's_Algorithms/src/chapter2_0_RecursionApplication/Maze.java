@@ -1,4 +1,4 @@
-package chapter2_RecursionApplication;
+package chapter2_0_RecursionApplication;
 
 public class Maze {
 	
